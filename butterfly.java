@@ -24,7 +24,7 @@ public class butterfly {
             } else if (lines > n) {
                 st--;
                 sp += 2;
-            }
+            } 
             System.out.println();
         }
         sc.close();
